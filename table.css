@@ -1,0 +1,15 @@
+.A1{
+    background-color: gray;
+    text-align: center;
+}
+.B1{
+    background-color: darkgray;
+    text-align : center;
+}
+li:nth-child{
+    color:darkgray;
+}
+.D1{
+    background-color: gray;
+    text-align: center;
+}
